@@ -1,4 +1,4 @@
-name: Build and publish image to ghcr.io/${{ github.repository_owner }}
+name: Build and publish image to ghcr.io/huywork
 
 on:
   push:
